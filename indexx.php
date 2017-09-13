@@ -9,7 +9,7 @@ _________________
 version:2.5
 */
 
-$API_KEY = '447427022:AAFAF57BR-gZ0jK-SEZBiQ5IRvAerD32uUM';
+$API_KEY = '349379306:AAHT2SSAu4-vL7YkfSuk0shoRunWU6HAwqo';
 ##------------------------------##
 define('API_KEY',$API_KEY);
 function bot($method,$datas=[]){
